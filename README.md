@@ -14,8 +14,8 @@
 <br/>
 <hr/>
 <hr/>
-<div style="height:80vh;display:flex; flex-direction:column; justify-content:space-evenly;align-items:center">
-
+<h3 align="center">Stats</h3>
+<div style="display:flex; flex-direction:row; justify-content:space-evenly;align-items:center">
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhirajB7&show_icons=true&locale=en&layout=compact&theme=dracula" alt="DhirajB7" />
 </div>
