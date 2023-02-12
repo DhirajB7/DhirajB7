@@ -3,7 +3,7 @@
 <hr/>
 <br/>
 
-- 🧑‍💻 I’m professional **Full Stack Developer**, with 8 years of experience In .
+- 🧑‍💻 I’m professional **Full Stack Developer**, with 8 years of experience .
 
 - ⚛️ I’m currently working as **React Developer .**
 
@@ -14,7 +14,6 @@
 <br/>
 <hr/>
 <hr/>
-<h3 align="center">Stats</h3>
 <div style="display:flex; flex-direction:row; justify-content:space-evenly;align-items:center">
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhirajB7&show_icons=true&locale=en&layout=compact&theme=dracula" alt="DhirajB7" />
