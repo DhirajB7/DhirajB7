@@ -1,6 +1,4 @@
-<h2 align="center">Hello 👋, I'm Dhiraj</h2>
-
-<br/>
+<h1 align="center">Hello 👋, I'm Dhiraj</h2>
 
 - 🧑‍💻 I’m professional **Full Stack Developer**, with 8 years of experience .
 
@@ -8,7 +6,7 @@
 
 - 💬 Lets talk **HTML, CSS, JAVASCRIPT, REACT JS, JAVA, SPRINGBOOT, ETC.[Bascically Coding & Tech 😁 ]**
 
-- 🌐 Visit [portfolio](https://portfolio-dhirajb7.vercel.app/) to know me a bit more.
+- 🌐 Visit my [portfolio](https://portfolio-dhirajb7.vercel.app/) to know me better.
 
 <br/>
 
