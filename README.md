@@ -4,9 +4,9 @@
 
 - ⚛️ Currently working as **React Developer** .
 
-- 💬 Lets talk **HTML, CSS, JAVASCRIPT, REACT JS, JAVA, SPRINGBOOT and/or Movies, Series, Anime & Games 😁**
+- 💬 Lets talk **HTML, CSS, JAVASCRIPT, REACT JS, JAVA, SPRINGBOOT and/or Movies, Series, Anime & Games 😁** .
 
-- 🌐 Visit my [portfolio](https://portfolio-dhirajb7.vercel.app/) to know me better.
+- 🌐 Visit my **[portfolio](https://portfolio-dhirajb7.vercel.app/)** to know me better .
 
 <br/>
 
