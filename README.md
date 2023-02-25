@@ -13,7 +13,7 @@
 <div align="center">
   
 <a href="https://github.com/DhirajB7">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhirajB7&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dracula" alt="DhirajB7" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhirajB7&show_icons=true&locale=en&layout=compact&langs_count=10" alt="DhirajB7" />
 </a>
   </div>
 <hr/>
