@@ -7,7 +7,7 @@
 - 💬 Lets talk **HTML, CSS, JAVASCRIPT, REACT JS, JAVA, SPRINGBOOT and/or Movies, Series, Anime & Games 😁** .
 
 - 🌐 Visit my **[portfolio](https://portfolio-dhirajb7.vercel.app/)** to know me better .
-<!-- 
+
 <br/>
 
 <div align="center">
@@ -16,4 +16,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhirajB7&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dracula" alt="DhirajB7" />
 </a>
   </div>
-<hr/> -->
+<hr/>
