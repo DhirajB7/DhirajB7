@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Dhiraj</h2>
 
-- 🧑‍💻 I’m **Software Developer** with experience in **Frontend Web Development** & **Java Backend Development** .
+- 🧑‍💻 I’m **Full Stack Developer** with experience in **Frontend Web Development** & **Java Backend Development** .
 
 - ⚛️ Currently working as **React Developer** .
 
