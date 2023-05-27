@@ -4,6 +4,8 @@
 
 - ⚛️ Currently working as **React Developer** .
 
+- 🌱 I’m currently learning **Dart & Flutter**
+
 - 💬 Lets talk **HTML, CSS, JAVASCRIPT, REACT JS, JAVA, SPRINGBOOT and/or Movies, Series, Anime & Games 😁** .
 
 - 🌐 Visit my **[portfolio](https://portfolio-dhirajb7.vercel.app/)** to know me better .
