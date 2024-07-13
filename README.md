@@ -6,7 +6,7 @@
 
 - 💬 Lets talk **HTML, CSS, JAVASCRIPT, REACT JS, REDUX, JAVA, SPRINGBOOT or Movies, Series, Anime & Games 😁** .
 
-- 🌐 Visit my **[portfolio]([https://dhirajbasavaraju.in/])** to know me better .
+- 🌐 Visit my **[portfolio](https://dhirajbasavaraju.in/)** to know me better .
 <br/>
 
  <div align="center">
