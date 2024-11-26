@@ -10,6 +10,6 @@
 <br/>
 
  <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhirajB7&langs_count=5&hide=dart,CMake,C%2B%2B&locale=en&layout=compact&theme=dracula" alt="DhirajB7" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhirajB7&langs_count=6&hide=dart,CMake,C%2B%2B&locale=en&layout=compact&theme=dracula" alt="DhirajB7" />
    </div>
  <hr/>
