@@ -8,8 +8,3 @@
 
 - 🌐 Visit my **[portfolio](https://dhirajbasavaraju.in/)** to know me better .
 <br/>
-
- <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhirajB7&langs_count=5&hide=dart,kotlin,CMake,C%2B%2B&locale=en&layout=compact&theme=dracula" alt="DhirajB7" />
-   </div>
- <hr/>
